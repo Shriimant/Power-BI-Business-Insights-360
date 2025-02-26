@@ -40,6 +40,7 @@ AtliQ Hardware, a fast-growing computer hardware company, struggled with outdate
 
 ## Dashboard Views - 
 ## Home Page: Centralized hub for seamless Page navigation
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/8af03cd2003c40fa7e57473d86cccf0ba87509c5/Home%20View.png)
 ## Finance view: Financial metrics analysis
 ## Sales view: Sales performance insights
 ## Marketing view: Marketing strategy insights
