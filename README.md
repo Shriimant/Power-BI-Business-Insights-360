@@ -1,4 +1,4 @@
-Business Insights 360 - Atliq Hardware
+##Business Insights 360 - Atliq Hardware
 
 AtliQ Hardware, a fast-growing computer hardware company, struggled with outdated Excel-based analysis that couldn’t handle their large data volumes. To stay ahead of the competition, they needed advanced analytics and better reporting to make smarter, data-driven decisions. The objective is to use Business Intelligence Tool which provides detailed insights on various departments such as Finance, Sales, Marketing, Supply Chain, Executive for AtliQ Hardware.
 
