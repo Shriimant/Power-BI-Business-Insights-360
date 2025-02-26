@@ -50,6 +50,7 @@ AtliQ Hardware, a fast-growing computer hardware company, struggled with outdate
 ## Supply Chain view: Supply chain metrics & Operations optimization
 ![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/8e9f0963b115b217d7d878062d8656031b851936/Supply%20Chain%20View.png)
 ## Executive view: Historical metrics customized for Executive members that enables strategic decision making
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/c6803e42864639a2fe2f2f4e8cee95cf2e1aae91/Executive%20View.png)
 ## KPI's/ Metrics -
 
 1. Gross Price.
