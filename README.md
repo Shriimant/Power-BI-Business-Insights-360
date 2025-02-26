@@ -2,13 +2,13 @@
 
 AtliQ Hardware, a fast-growing computer hardware company, struggled with outdated Excel-based analysis that couldn’t handle their large data volumes. To stay ahead of the competition, they needed advanced analytics and better reporting to make smarter, data-driven decisions. The objective is to use Business Intelligence Tool which provides detailed insights on various departments such as Finance, Sales, Marketing, Supply Chain, Executive for AtliQ Hardware.
 
-The core focus area includes -
+**The core focus area includes -**
 
 1. Creating a strong and reliable data model.
 2. Designing reports with the user in mind.
 3. Delivering in-depth, drill-down insights.
 
-This project helped me gain essential skills, such as -
+**This project helped me gain essential skills, such as -**
 
 1. Performing both basic and advanced operations in Power Query.
 2. Writing DAX formulas from foundational to complex concepts.
@@ -20,7 +20,7 @@ This project helped me gain essential skills, such as -
 8. Conditional formatting & page navigations using buttons.
 9. Understanding all the necessary KPI's & metrics relevant to sales, marketing, finance, and supply chain domains.
 
-Technical Tools utilized - 
+**Technical Tools utilized -** 
 
 1. Power BI Desktop.
 2. Excel. 
@@ -31,7 +31,7 @@ Technical Tools utilized -
 7. Power Query.
 
 
-## Data Modelling
+## Data Modelling -
 
 1. Established Data modeling between 15+ tables.
 2. Establishing the right relationships between tables is crucial for correct & effective Data analysis.
