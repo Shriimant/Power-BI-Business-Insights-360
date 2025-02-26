@@ -38,7 +38,7 @@ AtliQ Hardware, a fast-growing computer hardware company, struggled with outdate
 3. Utilized Snowflake Schema for Data modeling.
   ![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
 
-## Dashboard View 
+## Dashboard Views - 
 ## Home Page: Centralized hub for seamless Page navigation
 ## Finance view: Financial metrics analysis
 ## Sales view: Sales performance insights
