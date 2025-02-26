@@ -105,5 +105,5 @@ Executive View -
 4. A color-blind-friendly palette for a more inclusive dashboard design.
 
 ## 🔗 Live Dashboard Link - 
-[![portfolio]_(https://app.powerbi.com/view?r=eyJrIjoiNDM2YTQxYzctMzc5ZC00YmZjLTk2OTgtNzUxZWQxMDg4YTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+[![Live Dashboard]_(https://app.powerbi.com/view?r=eyJrIjoiNDM2YTQxYzctMzc5ZC00YmZjLTk2OTgtNzUxZWQxMDg4YTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
