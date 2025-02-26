@@ -36,6 +36,7 @@ AtliQ Hardware, a fast-growing computer hardware company, struggled with outdate
 1. Established Data modeling between 15+ tables.
 2. Establishing the right relationships between tables is crucial for correct & effective Data analysis.
 3. Utilized Snowflake Schema for Data modeling.
+  ![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
 
 ## Dashboard View 
 ## Home Page: Centralized hub for seamless Page navigation
